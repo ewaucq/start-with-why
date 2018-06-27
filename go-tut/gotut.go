@@ -1,15 +1,15 @@
 package main
 
-import ( "fmt"
-         "math/rand" )
+import (
+	"fmt"
+)
 
 const HomeTown string = "Libercourt"
 
 func prln(s string) {
-  fmt.Println(s)
+	fmt.Println(s)
 }
 
-func main()  {
-  prln($HomeTown)
-  prln(rand.Int(100))
+func main() {
+	prln(HomeTown)
 }
