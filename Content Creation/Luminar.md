@@ -1,7 +1,3 @@
-### Shortcuts
-
-https://skylum.com/luminar/user-manual/2018/windows/keyboard-shortcuts
-
 
 ## EDITs
 
@@ -25,7 +21,12 @@ https://skylum.com/luminar/user-manual/2018/windows/keyboard-shortcuts
 - **Crop** / **Straigthen**
 - **Erase** (spot removal tool)
 
-###EXPORT
+### EXPORT
 
 - Save
 - Export
+
+### Links
+
+>- [Shortcuts](https://skylum.com/luminar/user-manual/2018/windows/keyboard-shortcuts)
+
